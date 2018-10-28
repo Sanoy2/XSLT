@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="example1.xsl"?>
+<cars>
+    <car>
+        <manufacturer>Renault</manufacturer>
+        <model>Megane</model>
+        <productionYear>2010</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="diesel">
+            <capacity>1498</capacity>
+            <structure>R4</structure>
+            <power>115</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Citroen</manufacturer>
+        <model>C4 Grand Picasso</model>
+        <productionYear>2007</productionYear>
+        <colour>Silver</colour>
+        <engine fuelType="diesel">
+            <capacity>1998</capacity>
+            <structure>R4</structure>
+            <power>140</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Toyota</manufacturer>
+        <model>Avensis</model>
+        <productionYear>2015</productionYear>
+        <colour>White</colour>
+        <engine fuelType="gasoline">
+            <capacity>1599</capacity>
+            <structure>R4</structure>
+            <power>110</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Ford</manufacturer>
+        <model>Mustang</model>
+        <productionYear>1995</productionYear>
+        <colour>Red</colour>
+        <engine fuelType="gasoline">
+            <capacity>5496</capacity>
+            <structure>V8</structure>
+            <power>240</power>
+        </engine>
+    </car>
+</cars>
