@@ -17,7 +17,10 @@ To solve the issue you should try two solutions:
 ### Specific flag
 Open your browser by the terminal with flag `--allow-file-access-from-files`
 
-It worked on Windows 10 running Chrome from PowerShell.
+It worked on Windows 10:
+1. I opened PowerShell.
+2. Changed directory to the folder with chrome .exe file.
+3. Typed: `.\chrome.exe --allow-file-access-from-files`
 
 ### Python
 Open terminal and change directory to the one with your .xml and .xls files.
