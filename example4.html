@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        function loadXMLDoc(filename) {
+            if (window.ActiveXObject) {
+                xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+            } else {
+                xhttp = new XMLHttpRequest();
+            }
+            xhttp.open("GET", filename, false);
+            try {
+                xhttp.responseType = "msxml-document"
+            } catch (err) {} // Helping IE11
+            xhttp.send("");
+            return xhttp.responseXML;
+        }
+
+        function displayResult() {
+            var file = document.getElementsByName("sourceFile")[0].value;
+            var filename = file.replace(/^.*[\\\/]/, '');
+            xml = loadXMLDoc(filename);
+            xsl = loadXMLDoc("example4.xsl");
+
+            xsltProcessor = new XSLTProcessor();
+            xsltProcessor.importStylesheet(xsl);
+            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            document.getElementById("myBody").innerHTML = "";
+            document.getElementById("myBody").appendChild(resultDocument);
+        }
+    </script>
+</head>
+
+<body>
+    <div>
+        <input type="file" name="sourceFile"></input>
+        <button onclick="displayResult()">Run</button>
+    </div>
+    <div id="myBody" />
+</body>
+
+</html>

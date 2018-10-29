@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <manufacturer>Renault</manufacturer>
+        <model>Megane</model>
+        <productionYear>2010</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="diesel">
+            <capacity>1498</capacity>
+            <power>115</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Citroen</manufacturer>
+        <model>C4 Grand Picasso</model>
+        <productionYear>2007</productionYear>
+        <colour>Silver</colour>
+        <engine fuelType="diesel">
+            <capacity>1998</capacity>
+            <power>140</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Toyota</manufacturer>
+        <model>Avensis</model>
+        <productionYear>2015</productionYear>
+        <colour>White</colour>
+        <engine fuelType="gasoline">
+            <capacity>1599</capacity>
+            <power>110</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Ford</manufacturer>
+        <model>Mustang</model>
+        <productionYear>1995</productionYear>
+        <colour>Red</colour>
+        <engine fuelType="gasoline">
+            <capacity>5496</capacity>
+            <power>240</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Mercedes</manufacturer>
+        <model>C220</model>
+        <productionYear>2001</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="diesel">
+            <capacity>2196</capacity>
+            <power>135</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Audi</manufacturer>
+        <model>A6</model>
+        <productionYear>2018</productionYear>
+        <colour>Grey</colour>
+        <engine fuelType="gasoline">
+            <capacity>1999</capacity>
+            <power>190</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Peugeot</manufacturer>
+        <model>208</model>
+        <productionYear>2013</productionYear>
+        <colour>Satin</colour>
+        <engine fuelType="gasoline">
+            <capacity>998</capacity>
+            <power>59</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Fiat</manufacturer>
+        <model>Panda</model>
+        <productionYear>2014</productionYear>
+        <colour>White</colour>
+        <engine fuelType="gasoline">
+            <capacity>1398</capacity>
+            <power>76</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Fiat</manufacturer>
+        <model>Tipo</model>
+        <productionYear>2017</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="gasoline">
+            <capacity>1598</capacity>
+            <power>110</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Fiat</manufacturer>
+        <model>Doblo</model>
+        <productionYear>2015</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="gasoline">
+            <capacity>1598</capacity>
+            <power>110</power>
+        </engine>
+    </car>
+    <car>
+        <manufacturer>Fiat</manufacturer>
+        <model>Scudo</model>
+        <productionYear>2010</productionYear>
+        <colour>Blue</colour>
+        <engine fuelType="gasoline">
+            <capacity>1998</capacity>
+            <power>140</power>
+        </engine>
+    </car>
+</cars>

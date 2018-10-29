@@ -29,7 +29,6 @@
                             <li><xsl:value-of select="engine/@fuelType"/></li>
                             <li><xsl:value-of select="engine/capacity"/></li>
                             <li><xsl:value-of select="engine/power"/></li>
-                            <li><xsl:value-of select="engine/structure"/></li>
                         </ul>
                     </td>
                 </tr>

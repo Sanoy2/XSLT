@@ -19,6 +19,7 @@
             </tr>
             <xsl:for-each select="cars/car">
             <xsl:sort select="manufacturer" order="ascending"/> <!-- ascending|descending -->
+            <xsl:sort select="model" order="ascending"/> <!-- ascending|descending -->
                 <tr>
                     <td><xsl:value-of select="manufacturer"/></td>
                     <td><xsl:value-of select="model"/></td>
