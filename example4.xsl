@@ -3,7 +3,7 @@
 <xsl:template match="/">
 <html>
 <head>
-    <title>Cars 3example</title>
+    <title>Cars 4example</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
 </head>
@@ -19,7 +19,8 @@
             </tr>
             <xsl:for-each select="cars/car">
             <xsl:sort select="manufacturer" order="ascending"/> <!-- ascending|descending -->
-            <xsl:sort select="model" order="ascending"/> <!-- ascending|descending -->
+            <xsl:sort select="model" order="ascending"/> 
+            <xsl:if test="engine/@fuelType='gasoline'">
                 <tr>
                     <td><xsl:value-of select="manufacturer"/></td>
                     <td><xsl:value-of select="model"/></td>
@@ -33,6 +34,7 @@
                         </ul>
                     </td>
                 </tr>
+            </xsl:if>
             </xsl:for-each>
         </table>
     </div>

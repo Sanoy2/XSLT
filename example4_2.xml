@@ -11,6 +11,16 @@
         </engine>
     </car>
     <car>
+        <manufacturer>Fiat</manufacturer>
+        <model>Tipo</model>
+        <productionYear>2017</productionYear>
+        <colour>Black</colour>
+        <engine fuelType="gasoline">
+            <capacity>1598</capacity>
+            <power>110</power>
+        </engine>
+    </car>
+    <car>
         <manufacturer>Citroen</manufacturer>
         <model>C4 Grand Picasso</model>
         <productionYear>2007</productionYear>
@@ -80,16 +90,7 @@
             <power>76</power>
         </engine>
     </car>
-    <car>
-        <manufacturer>Fiat</manufacturer>
-        <model>Tipo</model>
-        <productionYear>2017</productionYear>
-        <colour>Black</colour>
-        <engine fuelType="gasoline">
-            <capacity>1598</capacity>
-            <power>110</power>
-        </engine>
-    </car>
+    
     <car>
         <manufacturer>Fiat</manufacturer>
         <model>Doblo</model>

@@ -2,20 +2,16 @@ th {
     background-color: #666699;
     color: #003300;
 }
-
 th, td {
     padding: 15px;
     text-align: left;
 }
-
 table {
     border-collapse: collapse;
 }
-
 table, th, td {
     border: 0.1em solid black;
     font: 15px arial, sans-serif;
 }
-
 tr:nth-child(even) {background-color: #cccccc;}
 tr:nth-child(odd) {background-color: #808080;}
