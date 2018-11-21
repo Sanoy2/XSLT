@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task5.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Space &amp; Cosmos</title>
+    <link>https://www.nytimes.com/section/science/space?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Space.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 15 Nov 2018 19:01:23 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Space &amp; Cosmos</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/science/space?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Rocket Lab&#x2019;s Modest Launch Is Giant Leap for Small Rocket Business</title>
+      <link>https://www.nytimes.com/2018/11/10/science/rocket-lab-launch.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/10/science/rocket-lab-launch.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/10/science/rocket-lab-launch.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/12/science/12smallrocket/12smallrocket-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rocket Lab&#x2019;s Electron launched from a site in New Zealand on Sunday, local time. The rocket carried seven payloads, all small satellites.</media:description>
+      <media:credit>Rocket Lab</media:credit>
+      <description>The company&#x2019;s Electron rocket carried a batch of small commercial satellites from a launchpad in New Zealand, a harbinger of a major transformation to the space business.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Sun, 11 Nov 2018 04:50:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rocket Lab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+    </item>
+    <item>
+      <title>Trolling the Monster in the Heart of the Milky Way</title>
+      <link>https://www.nytimes.com/2018/10/30/science/black-hole-milky-way.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/30/science/black-hole-milky-way.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/30/science/black-hole-milky-way.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/30/science/30SCI-BLACKHOLES1/30SCI-BLACKHOLES1-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Very Large Telescope, made of four giant telescopes in Chile&#x2019;s Atacama Desert.</media:description>
+      <media:credit>C. Malin/European Southern Observatory</media:credit>
+      <description>Something very large and dark occupies the center of our galaxy, and new data suggest that it is indeed a black hole.</description>
+      <dc:creator>DENNIS OVERBYE</dc:creator>
+      <pubDate>Wed, 31 Oct 2018 16:45:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Holes (Space)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gravitation and Gravity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Physics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Milky Way Galaxy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Astronomy and Astrophysics (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Southern Observatory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Harvard-Smithsonian Center for Astrophysics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of California, Los Angeles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Einstein, Albert</category>
+    </item>
+    <item>
+      <title>NASA&#x2019;s Dawn Mission to the Asteroid Belt Says Good Night</title>
+      <link>https://www.nytimes.com/2018/11/01/science/nasa-dawn-ceres-vesta-asteroids-end.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/01/science/nasa-dawn-ceres-vesta-asteroids-end.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/01/science/nasa-dawn-ceres-vesta-asteroids-end.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/02/science/02DAWN-print/00DAWN1b-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A view of the asteroid Ceres, which the NASA Dawn spacecraft has been studying since 2015.</media:description>
+      <media:credit>NASA/JPL-Caltech/UCLA/MPS/DLR/IDA</media:credit>
+      <description>Launched in 2007, the spacecraft discovered bright spots on Ceres and forbidding terrain on Vesta.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Sat, 03 Nov 2018 17:21:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceres (Dwarf Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asteroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Dawn (Spacecraft)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Vesta (Asteroid)</category>
+    </item>
+    <item>
+      <title>Russia Set to Resume Astronaut Trips to the International Space Station</title>
+      <link>https://www.nytimes.com/2018/11/01/science/soyuz-russia-space-station.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/01/science/soyuz-russia-space-station.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/01/science/soyuz-russia-space-station.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/02/science/02SOYUZ/02SOYUZ-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Russia&#x2019;s Soyuz spacecraft launching on Oct. 11 from the Baikonur cosmodrome in Kazakhstan.</media:description>
+      <media:credit>Kirill Kudryavtsev/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The announcement signals that the Soyuz spacecraft has been deemed safe for crewed travel following two astronauts&#x2019; harrowing emergency return to Earth in October.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Thu, 01 Nov 2018 20:53:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soyuz Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roscosmos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Space Station</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+    </item>
+    <item>
+      <title>Kepler, the Little NASA Spacecraft That Could, No Longer Can</title>
+      <link>https://www.nytimes.com/2018/10/30/science/nasa-kepler-exoplanet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/30/science/nasa-kepler-exoplanet.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/30/science/nasa-kepler-exoplanet.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/31/science/31KEPLER1/31KEPLER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An artist&#x2019;s conception of the Kepler-444 system, consisting of five planets orbiting a sun-like star. They&#x2019;re just a handful of the thousands of confirmed planets discovered by the Kepler spacecraft.</media:description>
+      <media:credit>Tiago Campante/Peter Devine</media:credit>
+      <description>After nine and a half years in orbit, 530,506 stars observed and 2,662 planets around other stars discovered, the telescope will be left to drift forever around the sun.</description>
+      <dc:creator>DENNIS OVERBYE</dc:creator>
+      <pubDate>Wed, 31 Oct 2018 05:59:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Kepler Space Telescope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+    </item>
+    <item>
+      <title>Trilobites: A Volcanic Eruption on Mars? Nope</title>
+      <link>https://www.nytimes.com/2018/10/26/science/mars-cloud-volcano-eruption-arsia-mons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/26/science/mars-cloud-volcano-eruption-arsia-mons.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/26/science/mars-cloud-volcano-eruption-arsia-mons.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/28/science/28MARSpromo/28MARSpromo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A picture taken by the European Space Agency&#x2019;s Mars Express spacecraft showing an elongated white plume that resembles volcanic ejecta.</media:description>
+      <media:credit>ESA/GCP/UPV/EHU Bilbao</media:credit>
+      <description>It&#x2019;s just a cloud. A very long cloud.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Sun, 28 Oct 2018 17:30:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+    </item>
+    <item>
+      <title>How Many Space Stations Does This Planet Need?</title>
+      <link>https://www.nytimes.com/2018/10/22/science/private-space-stations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/22/science/private-space-stations.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/22/science/private-space-stations.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/23/science/23SCI-SPACESTATION1/merlin_134745003_d52f28d4-2e52-4896-9fa3-95bb60e5a2ec-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A model of the Olympus space station module at Bigelow Aerospace near Las Vegas.</media:description>
+      <media:credit>Joe Buglewicz for The New York Times</media:credit>
+      <description>The Trump administration wants to shift to a capitalist free-for-all in orbit. But the readiness of commercial space outposts to take NASA&#x2019;s place is far from certain.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Mon, 22 Oct 2018 19:56:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Axiom Space Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bigelow Aerospace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">NanoRacks LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mircorp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Space Adventures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+    </item>
+    <item>
+      <title>Out There: Stephen Hawking&#x2019;s Final Paper: How to Escape From a Black Hole</title>
+      <link>https://www.nytimes.com/2018/10/23/science/stephen-hawking-final-paper.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/23/science/stephen-hawking-final-paper.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/23/science/stephen-hawking-final-paper.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/30/science/00OUTTHERE1/00OUTTHERE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In his posthumously published, last scientific paper, Stephen Hawking theorized that information may yet be able to elude a black hole by becoming encoded on its surface in the form of &#x201C;soft hair.&#x201D;</media:description>
+      <media:credit>Desiree Martin/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In a study from beyond the grave, the theoretical physicist sings (mathematically) of memory, loss and the possibility of data redemption.</description>
+      <dc:creator>DENNIS OVERBYE</dc:creator>
+      <pubDate>Thu, 25 Oct 2018 16:19:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hawking, Stephen W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Holes (Space)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Einstein, Albert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+    </item>
+    <item>
+      <title>BepiColombo Launches on Long Journey to Mercury</title>
+      <link>https://www.nytimes.com/2018/10/19/science/bepicolombo-mercury-launch.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/science/bepicolombo-mercury-launch.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/science/bepicolombo-mercury-launch.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/science/20mercury-launch1/20mercury-launch1-moth-v5.jpg" medium="image" height="151" width="151"/>
+      <media:description>An Ariane 5 rocket lifts off in French Guiana on Friday, carrying the BepiColombo spacecraft to the planet Mercury.</media:description>
+      <media:credit>European Space Agency</media:credit>
+      <description>The European-Japanese spacecraft will be the third mission to the rocky planet closest to the sun.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 03:42:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercury (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Space Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Japan Aerospace Exploration Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">French Guiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">BepiColombo</category>
+    </item>
+    <item>
+      <title>Profiles in Science: How Do You Find an Alien Ocean? Margaret Kivelson Figured It Out</title>
+      <link>https://www.nytimes.com/2018/10/08/science/margaret-kivelson-europa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/08/science/margaret-kivelson-europa.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/08/science/margaret-kivelson-europa.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/09/science/09SCI-KIVELSON1/09SCI-KIVELSON1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Margaret Kivelson in her office at the University of California, Los Angeles. She has been an active part of almost every major NASA mission beyond the asteroid belt.</media:description>
+      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+      <description>For forty years, the physicist at U.C.L.A. has been uncovering the outer solar system&#x2019;s secrets. Few scientists know more about the mysteries of Jupiter and its icy moons.</description>
+      <dc:creator>DAVID W. BROWN</dc:creator>
+      <pubDate>Mon, 08 Oct 2018 21:59:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kivelson, Margaret G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Europa (Moon of Jupiter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jupiter (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Galileo (Spacecraft)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Magnets and Magnetism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Physics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voyager Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of California, Los Angeles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+    </item>
+    <item>
+      <title>A Goblin World That Points Toward Hidden Planet Nine in the Solar System</title>
+      <link>https://www.nytimes.com/2018/10/02/science/goblin-planet-nine.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/02/science/goblin-planet-nine.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/02/science/goblin-planet-nine.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.</media:description>
+      <media:credit>Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science</media:credit>
+      <description>What astronomers have found about the curious orbit of a small ice world far away reinforces the idea that a large world is hidden out in the solar system.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Wed, 03 Oct 2018 02:42:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheppard, Scott S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Astronomical Journal</category>
+    </item>
+    <item>
+      <title>Neil Armstrong Walked on the Moon. To These Boys, He Was Just Dad.</title>
+      <link>https://www.nytimes.com/2018/09/28/science/neil-armstrong-auction.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/28/science/neil-armstrong-auction.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/28/science/neil-armstrong-auction.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/24/science/xxarmstrong-top/xxarmstrong-top-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In July 1969, this copy of Newsweek magazine with Neil Armstrong on the cover was sent to the Armstrong household. It is one of about 800 items that will be auctioned in November.</media:description>
+      <media:credit>Heritage Auctions</media:credit>
+      <description>With an upcoming auction of the astronaut&#x2019;s keepsakes, his sons reflect on an unusual childhood.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Fri, 28 Sep 2018 18:10:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Armstrong, Neil Alden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apollo Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Heritage Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Auctions</category>
+    </item>
+    <item>
+      <title>Trilobites: Ice Age Asteroid Crater Discovered Beneath Greenland Glacier </title>
+      <link>https://www.nytimes.com/2018/11/14/science/greenland-ice-crater.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/14/science/greenland-ice-crater.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/11/14/science/greenland-ice-crater.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/15/science/15TB-CRATER1/15TB-CRATER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An artist&#x2019;&#x2018;s depiction of a meteorite headed toward northwest Greenland.</media:description>
+      <media:credit>Natural History Museum of Denmark/Cryospheric Sciences Lab/ NASA Goddard Space Flight Center</media:credit>
+      <description>It is the first impact crater discovered under one of Earth&#x2019;s ice sheets, according to the scientists who found it.</description>
+      <dc:creator>NICHOLAS ST. FLEUR</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 21:20:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Science Advances (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kjaer, Kurt H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Craters</category>
+    </item>
+    <item>
+      <title>Tavares Strachan Teams With SpaceX to Launch Satellite-Sculpture Into Orbit</title>
+      <link>https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/13/arts/design/spacex-enoch-tavares-strachan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/14/arts/14strachan-item/14strachan-item-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A digital rendering of the &#x201C;Enoch&#x201D; satellite.</media:description>
+      <media:credit>Courtesy of Tavares Strachan</media:credit>
+      <description>The object, made of 24-karat gold, honors Robert Henry Lawrence Jr., the first African-American to train as an astronaut.</description>
+      <dc:creator>JORI FINKEL</dc:creator>
+      <pubDate>Wed, 14 Nov 2018 06:05:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Los Angeles County Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Enoch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, Robert Henry Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strachan, Tavares</category>
+    </item>
+    <item>
+      <title>Where Will Science Take Us? To the Stars </title>
+      <link>https://www.nytimes.com/2018/11/12/travel/astronomy-stars-observatories-science-tourism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/11/12/travel/astronomy-stars-observatories-science-tourism.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/11/12/travel/astronomy-stars-observatories-science-tourism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/18/travel/18stars1/18stars1-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Atacama Desert in Chile is arguably the best place in the world to see the night sky. Above are antennas of the Atacama Large Millimeter/submillimeter Array, known as ALMA.</media:description>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <description>A monthlong visit to observatories in Chile, Hawaii and Los Angeles revealed spellbinding visions of the heavens.</description>
+      <dc:creator>PETER KUJAWINSKI</dc:creator>
+      <pubDate>Mon, 12 Nov 2018 16:15:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+    </item>
+    <item>
+      <title>Hawaiian Supreme Court Approves Giant Telescope on Mauna Kea</title>
+      <link>https://www.nytimes.com/2018/10/30/science/hawaii-telescope-mauna-kea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/30/science/hawaii-telescope-mauna-kea.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/30/science/hawaii-telescope-mauna-kea.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/31/science/31TELESCOPE1/31TELESCOPE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Telescopes on Mauna Kea on the Big Island of Hawaii, where construction of the Thirty Meter Telescope, was given the go-ahead Tuesday by Hawaii&#x2019;s Supreme Court. It would be the largest telescope in the Northern Hemisphere.</media:description>
+      <media:credit>Julie Thurston Photography/Getty Images</media:credit>
+      <description>The court granted a building permit for a roughly $2 billion observatory, which activists had protested would further degrade the site of an ancient volcano.</description>
+      <dc:creator>DENNIS OVERBYE</dc:creator>
+      <pubDate>Tue, 30 Oct 2018 23:13:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of California, Santa Barbara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mauna Kea Volcano (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Thirty Meter Telescope</category>
+    </item>
+    <item>
+      <title>Remembering the Moon Landing, Nearly 50 Years Later: &#x2018;We Were All Completely Silent&#x2019;</title>
+      <link>https://www.nytimes.com/2018/10/18/reader-center/first-man-moon-landing-anniversary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/reader-center/first-man-moon-landing-anniversary.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/18/reader-center/first-man-moon-landing-anniversary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/17/reader-center/xxreaders_moonlanding/xxreaders_moonlanding-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Susanna Timmons, now an editor on The Times&#x2019;s Culture desk, sat on the floor as she and her family watched Neil Armstrong land on the moon on July 20, 1969.</media:description>
+      <media:credit>Jean K. Timmons</media:credit>
+      <description>A new film, &#x201C;First Man,&#x201D; tells the story of Neil Armstrong&#x2019;s stepping onto the moon in the summer of 1969. We asked readers to tell us what they remembered about that historic day.</description>
+      <dc:creator>KASIA PILAT</dc:creator>
+      <pubDate>Thu, 18 Oct 2018 19:25:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Armstrong, Neil Alden</category>
+    </item>
+    <item>
+      <title>Why Does &#x2018;First Man&#x2019; Say Gemini as &#x2018;Geminee&#x2019;? NASA Explains. Sorta.</title>
+      <link>https://www.nytimes.com/2018/10/17/movies/first-man-gemini-nasa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/17/movies/first-man-gemini-nasa.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/17/movies/first-man-gemini-nasa.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/18/arts/18firstman-gemini/18firstman-gemini-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In &#x201C;First Man,&#x201D; the last syllable of Gemini rhymes with knee and everyone pronounces it that way, including, from left, Corey Stoll, Lukas Haas and Ryan Gosling.</media:description>
+      <media:credit>Daniel McFadden/Universal Pictures</media:credit>
+      <description>The pronunciation of the 1965-66 program is a space agency thing. Sometimes it was pronounced normally. NASA&#x2019;s chief historian gives the back story.</description>
+      <dc:creator>JOHN SCHWARTZ</dc:creator>
+      <pubDate>Thu, 18 Oct 2018 15:34:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">First Man (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task4.xsl"?>
+<client>
+    <email>johndoe@mymail.com</email>
+    <author>John Doe</author>
+    <title>How_to_code_in_Java</title>
+    <id>778293817</id>
+</client>
+<!-- Author: Krzysztof Tomków -->

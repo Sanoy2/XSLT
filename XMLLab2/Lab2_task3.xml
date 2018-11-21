@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task3.xsl"?>
+<employees>
+    <employee id="e1">
+        <name>
+            <firstName>John</firstName>
+            <additionalName>Jack</additionalName>
+            <lastName>Doe</lastName>
+        </name>
+        <address>
+            <city>New York</city>
+            <street>Foo Street</street>
+            <number>2</number>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>739283648</mobile>
+            <mobile>739205827</mobile>
+            <email>EmailAtWork@mail.com</email>
+            <email>UniversityEmailJohnDoe@mail.com</email>
+        </contact>
+        <job jobId="Tester"></job>
+    </employee>
+    <employee id="e2">
+        <name>
+            <firstName>Antionio</firstName>
+            <additionalName>Fernando</additionalName>
+            <additionalName>Ernesto</additionalName>
+            <additionalName>Alonso</additionalName>
+            <lastName>Rivera</lastName>
+        </name>
+        <address>
+            <city>New York</city>
+            <street>Long Street</street>
+            <number>20</number>
+            <secondNumber>2</secondNumber>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>639782648</mobile>
+            <email>redhat@mail.com</email>
+        </contact>
+        <job jobId="Project Manager"></job>
+    </employee>
+    <employee id="e3">
+        <name>
+            <firstName>John</firstName>
+            <lastName>Smith</lastName>
+        </name>
+        <address>
+            <city>New York</city>
+            <street>American street</street>
+            <number>28</number>
+            <secondNumber>7A</secondNumber>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>611182678</mobile>
+            <email>myfirstemail@mail.com</email>
+            <email>anotheremail@mail.com</email>
+        </contact>
+        <job jobId="Developer"></job>
+    </employee>
+    <employee id="e4">
+        <name>
+            <firstName>Arnold</firstName>
+            <lastName>Strong</lastName>
+        </name>
+        <address>
+            <city>San Diego </city>
+            <street>Sunset streer</street>
+            <number>11</number>
+            <secondNumber>1A</secondNumber>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>673917394</mobile>
+            <mobile>623917394</mobile>
+            <mobile>563917384</mobile>
+            <mobile>783917394</mobile>
+            <email>ArnoldArnold@mail.com</email>
+        </contact>
+        <job jobId="Developer"></job>
+    </employee>
+    <employee id="e5">
+        <name>
+            <firstName>Jan</firstName>
+            <additionalName>Maria</additionalName>
+            <lastName>Kowalski</lastName>
+        </name>
+        <address>
+            <city>Katowice</city>
+            <street>Karola Wielkiego</street>
+            <number>21</number>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>728292828</mobile>
+            <email>JanMaria@mail.com</email>
+            <email>KowalskiMariaJan@mail.com</email>
+        </contact>
+        <job jobId="Tester"></job>
+    </employee>
+    <employee id="e6">
+        <name>
+            <firstName>Jack</firstName>
+            <lastName>Black</lastName>
+        </name>
+        <address>
+            <city>Boston</city>
+            <street>Tea street</street>
+            <number>201</number>
+            <secondNumber>57C</secondNumber>
+            <country>USA</country>
+        </address>
+        <contact>
+            <mobile>325236123</mobile>
+            <email>JB@mail.com</email>
+        </contact>
+        <job jobId="Developer"></job>
+    </employee>
+</employees>
+
+<!-- Author: Krzysztof Tomkow, index number: 218514 -->
